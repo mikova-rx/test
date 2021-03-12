@@ -3,3 +3,4 @@ hola, mundo!
 здесь был петя
 здесь был Вася
 
+lucky was here
